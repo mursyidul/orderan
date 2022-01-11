@@ -33,7 +33,7 @@
 
             <li><a  href="<?php echo base_url('dashboard'); ?>">Dashboard</a></li>
 
-            <li class="active"><strong><a>Bahan</a></strong></li>
+            <li class="active"><strong><a>Bahan1</a></strong></li>
 
         </ol>
 
