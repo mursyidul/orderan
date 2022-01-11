@@ -1,0 +1,27 @@
+- CRUD Perusahaan + Jumlah Karyawan
+- CRUD Bank
+- CRUD Surat Peringatan (SP)
+- Dashboard jumlah karyawan aktif, non aktif, belum ada bpjs, belums surat pengunduran diri
+- Grafik jumlah karyawa baru per bulan berdasarkan taggal mulai bekerja
+- Grafik jumlah karyawa berehenti per bulan berdasarkan taggal mulai selesai bekerja
+- Grafik jumlah karyawan aktif per perusahaan (10 Perushaan terbanyak)
+- Grafik jumlah karyawan resain per perusahaan (10 Perushaan terbanyak)
+- Grafik jumlah karyawan aktif berdasarkan Kabupaten / Kecamatan (10 terbanyak)
+- Grafik jumlah karyawan aktif berdasarkan tinggkat pendikan
+- Backup database daily/weekly
+- Ucapan Ulang tahun otomatis melalui email
+- Download id card template
+
+Additional Features
+- Job Posting
+- Lamaran kerja online
+- Grafik jumlah pelamar per bulan / per lowongan
+- Update status lamaran (Tolak/Terima)
+- Konversi data pelamar menjadi data karyawan
+
+
+Company Profile
+- Website
+- Career
+- Contact
+- Landing Page
